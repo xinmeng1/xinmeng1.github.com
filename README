@@ -4,4 +4,17 @@ I will use the StackEdit and Sublime to maintance these Blog.\
 
 ### How to use the Sublime Git?
 
-Try to use push
+After you edit one file and just do these steps to push :
+
+1. Ctrl+Shift+P
+2. Input  Git:Add or Gti:Add current file
+3. Input  Git:Commit and input the comment to commit
+4. Input  Git:Push (this will push to current branch automatically)
+5. Finish! 
+
+### StackEdit
+
+If Wanting to edit and see, just use StackEdit.
+
+Select the file in Dropbox and edit, it will sync with Dropbox, and then use Git or Sublimes to push!
+
